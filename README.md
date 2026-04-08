@@ -6,7 +6,7 @@ A ideia é simples: uma tela de login e, depois de entrar, você navega pelo lar
 
 ---
 
-## 📱 O que tem no app
+## O que tem no app
 
 - **Tela de login** com validação de usuário e senha
 - **Cabeçalho** com foto e nome do lar
@@ -17,7 +17,7 @@ A ideia é simples: uma tela de login e, depois de entrar, você navega pelo lar
 
 ---
 
-## 🚀 Como rodar
+## Como rodar
 
 **Pré-requisitos:** Node.js e o app Expo Go instalado no celular
 
@@ -39,19 +39,9 @@ Depois é só escanear o QR code com o **Expo Go** no celular.
 
 ---
 
-## 🔑 Credenciais de teste
+## Credenciais de teste
 
 | Usuário | Senha |
 |---------|-------|
-| pedro   | 1234  |
+| admin   | 1234  |
 
----
-
-## 🛠 Tecnologias
-
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-
----
-
-Feito com amor 💛
